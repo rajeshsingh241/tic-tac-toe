@@ -1,5 +1,6 @@
 Tic-Tac-Toe Game
 Welcome to the Tic-Tac-Toe Game! This is a classic 3x3 grid game, built using simple web technologies – HTML, CSS, and JavaScript. It allows two players to engage in a friendly match, taking turns to place their mark (X or O) and compete to get three marks in a row. Whether you're revisiting your childhood memories or learning JavaScript, this is a fun and straightforward project to explore.
+![Game Preview](Assets/tic-tac-toe.gif)
 
 Table of Contents
 Project Overview
